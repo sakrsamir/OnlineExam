@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <student>
+    <Name>sakr samir sakr</Name>
+    <Mail>eng.sakr88@yahoo.com</Mail>
+    <Birth>10/8/1997</Birth>
+    <Phone>01015054765</Phone>
+    <User>sakr</User>
+    <Pass>12345</Pass>
+  </student>
+  <student>
+    <Name>ali mohamed omar</Name>
+    <Mail>ali@yahoo.com</Mail>
+    <Birth>10/10/1980</Birth>
+    <Phone>0123456789</Phone>
+    <User>ali</User>
+    <Pass>43161966</Pass>
+  </student>
+  <student>
+    <Name>elm</Name>
+    <Mail>elm@yahoo.com</Mail>
+    <Birth>10/10/2017</Birth>
+    <Phone>0000000313</Phone>
+    <User>elm2017</User>
+    <Pass>123</Pass>
+  </student>
+</Students>

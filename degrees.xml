@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<degrees>
+  <D>
+    <examName>ICDLCertificate</examName>
+    <studentName>sakr samir sakr</studentName>
+    <user>sakr</user>
+    <grade>1/3</grade>
+    <degree>33%</degree>
+  </D>
+  <D>
+    <examName>C#</examName>
+    <studentName>sakr samir sakr</studentName>
+    <user>sakr</user>
+    <grade>1/1</grade>
+    <degree>100%</degree>
+  </D>
+  <D>
+    <examName>C#</examName>
+    <studentName>ali mohamed omar</studentName>
+    <user>ali</user>
+    <grade>0/1</grade>
+    <degree>0%</degree>
+  </D>
+  <D>
+    <examName>C#</examName>
+    <studentName>sakr samir sakr</studentName>
+    <user>sakr</user>
+    <grade>0/1</grade>
+    <degree>0%</degree>
+  </D>
+  <D>
+    <examName>ICDLCertificate</examName>
+    <studentName>sakr samir sakr</studentName>
+    <user>sakr</user>
+    <grade>1/3</grade>
+    <degree>33%</degree>
+  </D>
+</degrees>
